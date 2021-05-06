@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>KK-regJS2PAGE.py</Creator>
+    <Created>2021-01-18T15:26:51.123056</Created>
+    <LastChange>2021-01-18T15:26:51.123056</LastChange>
+  </Metadata>
+  <Page imageFilename="guenther_voelkerrecht02_1792_0351.png" imageWidth="1600" imageHeight="2762">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="572,1620 572,1675 572,1709 71,1709 71,1781 71,1817 119,1817 119,1901 119,1881 32,1881 32,1957 30,1945 30,2020 33,2001 33,2084 32,2064 32,2149 35,2129 35,2199 35,2147 35,2268 36,2244 36,2325 39,2305 39,2390 40,2367 40,2450 38,2430 38,2514 40,2490 40,2580 1277,2580 1277,2490 1278,2514 1278,2430 1275,2450 1275,2367 1277,2390 1277,2305 1274,2325 1274,2244 1275,2268 1275,2147 1275,2199 1275,2129 1275,2149 1275,2064 1274,2084 1274,2001 1274,2020 1274,1945 1272,1957 1272,1881 1273,1901 1273,1817 1227,1817 1227,1781 1227,1709 720,1709 720,1675 720,1620 572,1620"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:pageNum;}">
+      <Coords points="1167,277 1167,333 1257,333 1257,277 1167,277"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:header;}">
+      <Coords points="42,267 42,358 1127,358 1127,267 42,267"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:sig;}">
+      <Coords points="102,2563 102,2645 894,2645 894,2563 102,2563"/>
+    </TextRegion>
+    <TextRegion id="block_4" custom="structure {type:catch;}">
+      <Coords points="1192,2561 1192,2597 1280,2597 1280,2561 1192,2561"/>
+    </TextRegion>
+    <TextRegion id="block_5" custom="structure {type:note;}">
+      <Coords points="138,399 138,476 133,461 133,546 132,529 132,607 136,596 136,667 145,660 145,742 134,731 134,807 137,791 137,867 137,849 137,925 137,913 137,992 137,977 137,1047 137,1040 137,1109 137,1098 109,1098 109,1174 109,1160 137,1160 137,1231 137,1221 137,1285 138,1294 138,1349 150,1348 150,1417 140,1412 140,1483 143,1484 143,1550 858,1550 858,1484 1267,1484 1267,1483 1267,1412 1267,1417 1267,1348 484,1348 484,1349 484,1294 1263,1294 1263,1285 1263,1221 1265,1231 1265,1160 1265,1174 1265,1098 1264,1109 1264,1040 1263,1047 1263,977 1262,992 1262,913 1262,925 1262,849 1259,867 1259,791 1259,807 1259,731 1257,742 1257,660 734,660 734,667 734,596 1255,596 1255,607 1255,529 1257,546 1257,461 1256,476 1256,399 138,399"/>
+    </TextRegion>
+  </Page>
+</PcGts>

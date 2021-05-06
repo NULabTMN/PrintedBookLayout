@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:39.006678</Created>
+    <LastChange>2021-01-17T09:39:39.006678</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/avelallemant_gaunerthum02_1858_0294.png" imageWidth="1600" imageHeight="2664">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="320,291 320,338 321,350 321,397 320,409 320,457 320,468 320,515 321,528 321,574 320,587 320,634 1143,634 1143,587 1515,587 1515,574 1515,528 1513,515 1513,468 1513,457 1513,409 1515,397 1515,350 1515,338 1515,291 320,291"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="321,1218 321,1267 319,1278 319,1325 319,1336 319,1385 319,1394 319,1441 1517,1441 1517,1394 1517,1385 1517,1336 1517,1325 1517,1278 1516,1267 1516,1218 321,1218"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:body;}">
+      <Coords points="319,2027 319,2071 1521,2071 1521,2027 319,2027"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:pageNum;}">
+      <Coords points="883,197 883,234 962,234 962,197 883,197"/>
+    </TextRegion>
+    <TextRegion id="block_4" custom="structure {type:note;}">
+      <Coords points="444,2173 444,2211 444,2219 318,2219 318,2258 318,2265 318,2306 319,2313 319,2352 880,2352 880,2313 1523,2313 1523,2306 1523,2265 1523,2258 1523,2219 1521,2211 1521,2173 444,2173"/>
+    </TextRegion>
+    <GraphicRegion id="block_5">
+      <Coords points="714,638 714,1211 1121,1211 1121,638"/>
+    </GraphicRegion>
+    <GraphicRegion id="block_6">
+      <Coords points="703,1450 703,2001 1129,2001 1129,1450"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

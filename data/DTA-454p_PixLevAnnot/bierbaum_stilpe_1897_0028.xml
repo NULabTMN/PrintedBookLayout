@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:29.711375</Created>
+    <LastChange>2021-01-17T09:39:29.711375</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/bierbaum_stilpe_1897_0028.png" imageWidth="1600" imageHeight="2567">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="144,271 144,338 146,357 146,423 146,443 146,509 146,531 241,531 241,594 244,617 244,683 244,702 147,702 147,771 150,789 150,858 149,875 149,943 150,965 150,1028 150,1050 245,1050 245,1115 245,1137 151,1137 151,1200 152,1222 152,1287 155,1309 155,1373 154,1395 154,1456 154,1480 243,1480 243,1547 243,1567 160,1567 160,1630 457,1630 457,1567 1426,1567 1426,1547 1426,1480 391,1480 391,1456 391,1395 1426,1395 1426,1373 1426,1309 1424,1287 1424,1222 1423,1200 1423,1137 1423,1115 1423,1050 1091,1050 1091,1028 1091,965 1421,965 1421,943 1421,875 1422,858 1422,789 1421,771 1421,702 1418,683 1418,617 724,617 724,594 724,531 1417,531 1417,509 1417,443 1415,423 1415,357 1415,338 1415,271 144,271"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:pageNum;}">
+      <Coords points="146,140 146,188 206,188 206,140 146,140"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:header;}">
+      <Coords points="1272,134 1272,206 1413,206 1413,134 1272,134"/>
+    </TextRegion>
+    <GraphicRegion id="block_3">
+      <Coords points="710,1797 710,1942 890,1942 890,1797"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

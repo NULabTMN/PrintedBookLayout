@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:46.514989</Created>
+    <LastChange>2021-01-17T09:39:46.514989</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/ercker_aula01_1672_0282.png" imageWidth="1600" imageHeight="2747">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="311,195 311,250 311,247 233,247 233,306 235,302 235,358 236,357 236,412 235,406 235,465 234,462 234,517 233,516 233,577 233,569 233,624 235,621 235,677 237,673 237,728 237,726 340,726 340,782 340,779 237,779 237,834 234,834 234,888 236,887 236,945 238,937 238,994 238,988 328,988 328,1045 328,1101 266,1101 266,1141 266,1143 329,1143 329,1254 329,1198 240,1198 240,1256 240,1253 344,1253 344,1311 344,1308 592,1308 592,1368 1182,1368 1182,1308 1377,1308 1377,1311 1377,1253 1505,1253 1505,1256 1505,1198 1506,1254 1506,1143 466,1143 466,1141 466,1101 1504,1101 1504,1045 1504,988 1327,988 1327,994 1327,937 1503,937 1503,945 1503,887 1502,888 1502,834 1503,834 1503,779 1503,782 1503,726 616,726 616,728 616,673 1503,673 1503,677 1503,621 1503,624 1503,569 1501,577 1501,516 1503,517 1503,462 1502,465 1502,406 1501,412 1501,357 1502,358 1502,302 1501,306 1501,247 1501,250 1501,195 311,195"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:pageNum;}">
+      <Coords points="234,122 234,175 346,175 346,122 234,122"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:header;}">
+      <Coords points="613,116 613,181 1058,181 1058,116 613,116"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:catch;}">
+      <Coords points="1334,2423 1334,2467 1506,2467 1506,2423 1334,2423"/>
+    </TextRegion>
+    <GraphicRegion id="block_4">
+      <Coords points="298,1499 298,2234 1451,2234 1451,1499"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

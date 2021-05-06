@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:38.414593</Created>
+    <LastChange>2021-01-17T09:39:38.414593</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/boelsche_liebesleben02_1900_0105.png" imageWidth="1600" imageHeight="2542">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="168,161 168,211 170,226 170,276 169,290 169,340 169,353 169,403 170,418 170,467 169,480 169,531 171,543 171,592 170,607 170,658 170,674 170,722 170,734 278,734 278,783 278,799 172,799 172,848 170,863 170,911 171,926 171,975 173,989 173,1040 171,1054 171,1102 171,1117 171,1168 172,1181 172,1230 170,1245 170,1294 172,1308 172,1360 173,1371 173,1422 172,1436 172,1487 173,1499 173,1550 173,1564 173,1613 174,1627 174,1678 174,1693 174,1741 1107,1741 1107,1693 1464,1693 1464,1678 1464,1627 1464,1613 1464,1564 1465,1550 1465,1499 1464,1487 1464,1436 1462,1422 1462,1371 1463,1360 1463,1308 1464,1294 1464,1245 1465,1230 1465,1181 1463,1168 1463,1117 1462,1102 1462,1054 1461,1040 1461,989 1464,975 1464,926 1462,911 1462,863 1461,848 1461,799 1461,783 1461,734 396,734 396,722 396,674 1462,674 1462,658 1462,607 1461,592 1461,543 1460,531 1460,480 1460,467 1460,418 1460,403 1460,353 1461,340 1461,290 1460,276 1460,226 1458,211 1458,161 168,161"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="286,2133 286,2184 286,2197 178,2197 178,2249 178,2260 178,2311 1469,2311 1469,2260 1467,2249 1467,2197 1467,2184 1467,2133 286,2133"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:pageNum;}">
+      <Coords points="800,2401 800,2445 848,2445 848,2401 800,2401"/>
+    </TextRegion>
+    <GraphicRegion id="block_3">
+      <Coords points="551,1822 551,2036 1059,2036 1059,1822"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>KK-regJS2PAGE.py</Creator>
+    <Created>2021-01-18T15:28:30.559930</Created>
+    <LastChange>2021-01-18T15:28:30.559930</LastChange>
+  </Metadata>
+  <Page imageFilename="ranke_reformation01_1839_0179.png" imageWidth="1600" imageHeight="2743">
+    <TextRegion id="block_0" custom="structure {type:header;}">
+      <Coords points="451,128 451,189 1103,189 1103,128 451,128"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="124,228 124,300 121,320 121,382 122,402 122,459 122,482 122,541 123,563 123,621 124,644 124,702 123,722 123,783 123,805 123,863 125,887 125,944 123,968 123,1027 125,1050 125,1108 128,1131 128,1189 122,1210 122,1269 128,1275 128,1348 132,1371 132,1430 131,1452 131,1510 133,1534 133,1590 126,1613 126,1670 128,1692 128,1751 129,1774 129,1832 130,1854 130,1916 131,1935 131,1992 130,2006 130,2072 130,2084 130,2154 1441,2154 1441,2084 1441,2072 1441,2006 1437,1992 1437,1935 1436,1916 1436,1854 1438,1832 1438,1774 1439,1751 1439,1692 1435,1670 1435,1613 1436,1590 1436,1534 1435,1510 1435,1452 1438,1430 1438,1371 1437,1348 1437,1275 1437,1269 1437,1210 1436,1189 1436,1131 1437,1108 1437,1050 1435,1027 1435,968 1433,944 1433,887 1434,863 1434,805 1434,783 1434,722 1436,702 1436,644 1436,621 1436,563 1435,541 1435,482 1436,459 1436,402 1435,382 1435,320 1436,300 1436,228 124,228"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:pageNum;}">
+      <Coords points="1356,138 1356,178 1435,178 1435,138 1356,138"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:sig;}">
+      <Coords points="174,2579 174,2620 1176,2620 1176,2579 174,2579"/>
+    </TextRegion>
+    <TextRegion id="block_4" custom="structure {type:note;}">
+      <Coords points="288,2258 288,2315 288,2324 125,2324 125,2375 125,2392 308,2392 308,2442 308,2446 130,2446 130,2498 129,2510 129,2556 230,2556 230,2510 1438,2510 1438,2498 1438,2446 1440,2442 1440,2392 1303,2392 1303,2375 1303,2324 1441,2324 1441,2315 1441,2258 288,2258"/>
+    </TextRegion>
+  </Page>
+</PcGts>

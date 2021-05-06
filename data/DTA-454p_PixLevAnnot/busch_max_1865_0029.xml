@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:38.707475</Created>
+    <LastChange>2021-01-17T09:39:38.707475</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/busch_max_1865_0029.png" imageWidth="1600" imageHeight="2536">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="353,233 353,279 360,294 360,342 1075,342 1075,294 891,294 891,279 891,233 353,233"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="416,1309 416,1355 419,1371 419,1417 416,1433 416,1478 415,1495 415,1540 1072,1540 1072,1495 1025,1495 1025,1478 1025,1433 915,1433 915,1417 915,1371 1076,1371 1076,1355 1076,1309 416,1309"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:pageNum;}">
+      <Coords points="1354,153 1354,186 1395,186 1395,153 1354,153"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:sig;}">
+      <Coords points="1140,2376 1140,2405 1186,2405 1186,2376 1140,2376"/>
+    </TextRegion>
+    <GraphicRegion id="block_4">
+      <Coords points="51,483 51,1181 1397,1181 1397,483"/>
+    </GraphicRegion>
+    <GraphicRegion id="block_5">
+      <Coords points="159,1759 159,2171 1316,2171 1316,1759"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:48.764579</Created>
+    <LastChange>2021-01-17T09:39:48.764579</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/brehm_thierleben01_1864_0163.png" imageWidth="1600" imageHeight="2460">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="56,181 56,225 55,225 55,272 56,270 56,316 55,316 55,361 54,361 54,408 54,408 54,458 54,453 134,453 134,496 134,499 55,499 55,542 55,543 55,583 54,589 54,633 1467,633 1467,589 1468,583 1468,543 1468,542 1468,499 1468,496 1468,453 1412,453 1412,458 1412,408 1471,408 1471,408 1471,361 1471,361 1471,316 1473,316 1473,270 1473,272 1473,225 1474,225 1474,181 56,181"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="35,1856 35,1903 34,1894 34,1942 34,1947 112,1947 112,1995 112,1992 32,1992 32,2039 31,2038 31,2087 30,2082 30,2131 30,2130 30,2175 30,2175 30,2221 29,2220 29,2267 27,2264 27,2313 26,2311 26,2356 1450,2356 1450,2311 1451,2313 1451,2264 1453,2267 1453,2220 1453,2221 1453,2175 1453,2175 1453,2130 1452,2131 1452,2082 1454,2087 1454,2038 1455,2039 1455,1992 1455,1995 1455,1947 1040,1947 1040,1942 1040,1894 1453,1894 1453,1903 1453,1856 35,1856"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:figure;}">
+      <Coords points="455,1763 455,1790 1043,1790 1043,1763 455,1763"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:header;}">
+      <Coords points="471,108 471,140 1061,140 1061,108 471,108"/>
+    </TextRegion>
+    <TextRegion id="block_4" custom="structure {type:pageNum;}">
+      <Coords points="1423,115 1423,141 1474,141 1474,115 1423,115"/>
+    </TextRegion>
+    <GraphicRegion id="block_5">
+      <Coords points="40,623 40,1766 1495,1766 1495,623"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

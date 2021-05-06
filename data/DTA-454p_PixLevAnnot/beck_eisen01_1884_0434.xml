@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:43.528662</Created>
+    <LastChange>2021-01-17T09:39:43.528662</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/beck_eisen01_1884_0434.png" imageWidth="1600" imageHeight="2431">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="333,151 333,190 332,202 332,240 331,252 331,291 332,301 332,341 332,352 332,391 332,402 410,402 410,440 410,452 330,452 330,490 318,501 318,540 331,550 331,590 330,600 330,637 331,649 331,687 330,699 330,736 331,747 331,784 331,796 331,832 1531,832 1531,796 1531,784 1531,747 1531,736 1531,699 1532,687 1532,649 1532,637 1532,600 1532,590 1532,550 1531,540 1531,501 1532,490 1532,452 1533,440 1533,402 880,402 880,391 880,352 1532,352 1532,341 1532,301 1534,291 1534,252 1533,240 1533,202 1533,190 1533,151 333,151"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="330,1144 330,1189 329,1198 329,1236 329,1247 329,1288 329,1296 329,1336 330,1345 330,1384 329,1395 329,1437 328,1445 328,1486 327,1489 327,1536 327,1547 405,1547 405,1588 405,1598 327,1598 327,1638 327,1648 327,1689 326,1699 326,1738 326,1749 326,1789 326,1800 326,1837 326,1849 326,1887 327,1898 327,1940 1526,1940 1526,1898 1525,1887 1525,1849 1525,1837 1525,1800 1526,1789 1526,1749 1526,1738 1526,1699 1526,1689 1526,1648 1525,1638 1525,1598 1526,1588 1526,1547 936,1547 936,1536 936,1489 1526,1489 1526,1486 1526,1445 1526,1437 1526,1395 1528,1384 1528,1345 1528,1336 1528,1296 1527,1288 1527,1247 1528,1236 1528,1198 1530,1189 1530,1144 330,1144"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:pageNum;}">
+      <Coords points="333,91 333,119 390,119 390,91 333,91"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:header;}">
+      <Coords points="820,89 820,120 1050,120 1050,89 820,89"/>
+    </TextRegion>
+    <TextRegion id="block_4" custom="structure {type:figure;}">
+      <Coords points="877,869 877,897 986,897 986,869 877,869"/>
+    </TextRegion>
+    <TextRegion id="block_5" custom="structure {type:note;}">
+      <Coords points="426,2025 426,2056 426,2064 575,2064 575,2095 575,2102 325,2102 325,2133 1436,2133 1436,2102 1524,2102 1524,2095 1524,2064 1524,2056 1524,2025 426,2025"/>
+    </TextRegion>
+    <GraphicRegion id="block_6">
+      <Coords points="471,900 471,1094 1367,1094 1367,900"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

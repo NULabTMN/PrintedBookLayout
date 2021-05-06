@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:33.379967</Created>
+    <LastChange>2021-01-17T09:39:33.379967</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/gessner_buchdruckerkunst02_1740_0021.png" imageWidth="1600" imageHeight="2090">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="213,636 213,753 213,766 177,766 177,856 177,854 223,854 223,919 1054,919 1054,854 1090,854 1090,856 1090,766 1055,766 1055,753 1055,636 213,636"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="432,1063 432,1111 432,1107 397,1107 397,1157 397,1155 456,1155 456,1202 452,1202 452,1250 454,1249 454,1297 455,1295 455,1344 453,1341 453,1392 455,1389 455,1438 455,1432 176,1432 176,1483 176,1479 176,1531 176,1526 176,1576 176,1571 228,1571 228,1624 228,1617 174,1617 174,1669 175,1664 175,1716 174,1711 174,1761 176,1755 176,1814 1085,1814 1085,1755 1088,1761 1088,1711 1085,1716 1085,1664 1086,1669 1086,1617 1086,1624 1086,1571 1042,1571 1042,1576 1042,1526 1086,1526 1086,1531 1086,1479 1088,1483 1088,1432 1088,1438 1088,1389 1089,1392 1089,1341 1089,1344 1089,1295 1090,1297 1090,1249 1091,1250 1091,1202 1090,1202 1090,1155 1091,1157 1091,1107 1092,1111 1092,1063 432,1063"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:sig;}">
+      <Coords points="608,1805 608,1845 639,1845 639,1805 608,1805"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:catch;}">
+      <Coords points="1023,1815 1023,1855 1086,1855 1086,1815 1023,1815"/>
+    </TextRegion>
+    <GraphicRegion id="block_4">
+      <Coords points="49,94 49,573 1208,573 1208,94"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

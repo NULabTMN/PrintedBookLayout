@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:42.871739</Created>
+    <LastChange>2021-01-17T09:39:42.871739</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/boelsche_liebesleben02_1900_0024.png" imageWidth="1600" imageHeight="2542">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="284,923 284,1013 284,1003 176,1003 176,1073 175,1067 175,1139 174,1132 174,1200 176,1197 176,1270 173,1260 173,1333 175,1326 175,1399 174,1389 174,1462 174,1453 174,1516 173,1515 173,1587 173,1580 173,1646 172,1642 172,1717 171,1706 171,1780 171,1771 171,1835 171,1837 171,1900 171,1905 283,1905 283,1974 283,1966 178,1966 178,2033 178,2037 283,2037 283,2106 283,2099 176,2099 176,2170 176,2162 176,2235 178,2228 178,2298 1461,2298 1461,2228 1461,2235 1461,2162 1460,2170 1460,2099 1459,2106 1459,2037 1089,2037 1089,2033 1089,1966 1460,1966 1460,1974 1460,1905 868,1905 868,1900 868,1837 1459,1837 1459,1835 1459,1771 1458,1780 1458,1706 1458,1717 1458,1642 1458,1646 1458,1580 1457,1587 1457,1515 1458,1516 1458,1453 1459,1462 1459,1389 1457,1399 1457,1326 1457,1333 1457,1260 1459,1270 1459,1197 1458,1200 1458,1132 1460,1139 1460,1067 1460,1073 1460,1003 1459,1013 1459,923 284,923"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:pageNum;}">
+      <Coords points="808,2382 808,2416 828,2416 828,2382 808,2382"/>
+    </TextRegion>
+    <GraphicRegion id="block_2">
+      <Coords points="119,0 119,892 1488,892 1488,0"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

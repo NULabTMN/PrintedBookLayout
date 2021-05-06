@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>KK-regJS2PAGE.py</Creator>
+    <Created>2021-01-18T15:23:39.024644</Created>
+    <LastChange>2021-01-18T15:23:39.024644</LastChange>
+  </Metadata>
+  <Page imageFilename="klueber_recht_1817_0125.png" imageWidth="1600" imageHeight="2628">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="176,329 176,422 176,398 107,398 107,482 107,496 181,496 181,557 182,570 182,636 1078,636 1078,570 1360,570 1360,557 1360,496 1357,482 1357,398 1358,422 1358,329 176,329"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="689,1382 689,1458 689,1485 18,1485 18,1567 18,1621 285,1621 285,1681 285,1699 192,1699 192,1761 195,1761 195,1838 196,1850 196,1911 196,1923 152,1923 152,1989 152,1991 193,1991 193,2061 200,2072 200,2141 201,2146 201,2222 200,2214 200,2292 201,2276 201,2356 200,2361 200,2424 1419,2424 1419,2361 1379,2361 1379,2356 1379,2276 1384,2292 1384,2214 1380,2222 1380,2146 1380,2141 1380,2072 1401,2072 1401,2061 1401,1991 1381,1989 1381,1923 1380,1911 1380,1850 1373,1838 1373,1761 1381,1761 1381,1699 1380,1681 1380,1621 992,1621 992,1567 992,1485 865,1485 865,1458 865,1382 689,1382"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:pageNum;}">
+      <Coords points="1267,203 1267,254 1350,254 1350,203 1267,203"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:header;}">
+      <Coords points="456,214 456,296 1011,296 1011,214 456,214"/>
+    </TextRegion>
+    <TextRegion id="block_4" custom="structure {type:note;}">
+      <Coords points="286,715 286,759 288,802 288,842 292,859 292,904 296,914 296,960 294,966 294,1015 294,1024 294,1076 296,1093 296,1139 290,1127 290,1204 296,1210 296,1261 278,1267 278,1309 1326,1309 1326,1267 1376,1267 1376,1261 1376,1210 1373,1204 1373,1127 1345,1127 1345,1139 1345,1093 1370,1093 1370,1076 1370,1024 1370,1015 1370,966 1373,960 1373,914 1369,904 1369,859 1367,842 1367,802 1109,802 1109,759 1109,715 286,715"/>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:47.326558</Created>
+    <LastChange>2021-01-17T09:39:47.326558</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/brockes_vergnuegen03_1730_0303.png" imageWidth="1600" imageHeight="2762">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="367,765 367,927 367,975 112,975 112,1070 112,1051 217,1051 217,1141 217,1123 217,1201 216,1196 216,1281 215,1269 215,1356 212,1340 212,1421 212,1427 212,1487 197,1569 197,1678 197,1664 574,1664 574,1750 574,1836 0,1836 0,1897 0,1925 56,1925 56,1999 56,2010 93,2010 93,2076 90,2092 90,2162 90,2174 90,2247 91,2261 91,2330 88,2344 88,2415 1249,2415 1249,2344 1250,2330 1250,2261 1076,2261 1076,2247 1076,2174 994,2174 994,2162 994,2092 835,2092 835,2076 835,2010 1268,2010 1268,1999 1268,1925 858,1925 858,1897 858,1836 936,1836 936,1750 936,1664 1305,1664 1305,1678 1305,1569 354,1569 354,1487 354,1427 1407,1427 1407,1421 1407,1340 1406,1356 1406,1269 1405,1281 1405,1196 1408,1201 1408,1123 1408,1141 1408,1051 1408,1070 1408,975 1160,975 1160,927 1160,765 367,765"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:sig;}">
+      <Coords points="742,2477 742,2526 792,2526 792,2477 742,2477"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:catch;}">
+      <Coords points="1291,2476 1291,2537 1392,2537 1392,2476 1291,2476"/>
+    </TextRegion>
+    <GraphicRegion id="block_3">
+      <Coords points="53,165 53,601 1475,601 1475,165"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

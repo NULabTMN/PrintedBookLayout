@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:43.809756</Created>
+    <LastChange>2021-01-17T09:39:43.809756</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/bierbaum_stilpe_1897_0071.png" imageWidth="1600" imageHeight="2567">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="288,334 288,399 288,423 194,423 194,485 194,508 287,508 287,570 286,590 286,655 286,676 195,676 195,741 195,764 195,828 195,840 289,840 289,914 290,934 290,998 290,1022 196,1022 196,1084 196,1105 290,1105 290,1170 290,1195 189,1195 189,1256 189,1278 294,1278 294,1342 291,1363 291,1430 291,1452 201,1452 201,1516 201,1533 290,1533 290,1597 290,1614 195,1614 195,1685 199,1704 199,1773 199,1799 295,1799 295,1848 290,1882 290,1946 1171,1946 1171,1882 644,1882 644,1848 644,1799 1468,1799 1468,1773 1468,1704 1468,1685 1468,1614 1468,1597 1468,1533 519,1533 519,1516 519,1452 1467,1452 1467,1430 1467,1363 1217,1363 1217,1342 1217,1278 884,1278 884,1256 884,1195 1465,1195 1465,1170 1465,1105 653,1105 653,1084 653,1022 1466,1022 1466,998 1466,934 1198,934 1198,914 1198,840 820,840 820,828 820,764 1464,764 1464,741 1464,676 1463,655 1463,590 762,590 762,570 762,508 830,508 830,485 830,423 1461,423 1461,399 1461,334 288,334"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:pageNum;}">
+      <Coords points="1399,200 1399,248 1460,248 1460,200 1399,200"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:header;}">
+      <Coords points="194,201 194,251 816,251 816,201 194,201"/>
+    </TextRegion>
+    <GraphicRegion id="block_3">
+      <Coords points="740,2129 740,2267 926,2267 926,2129"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

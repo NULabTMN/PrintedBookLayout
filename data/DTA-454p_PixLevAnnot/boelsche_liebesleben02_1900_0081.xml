@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:45.267879</Created>
+    <LastChange>2021-01-17T09:39:45.267879</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/boelsche_liebesleben02_1900_0081.png" imageWidth="1600" imageHeight="2542">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="135,168 135,229 130,232 130,293 135,298 135,357 133,357 133,419 135,425 135,480 134,487 134,546 133,550 133,608 133,613 133,673 131,678 131,726 131,743 238,743 238,800 238,804 129,804 129,867 129,867 129,933 129,932 129,998 129,998 129,1059 128,1061 128,1125 1416,1125 1416,1061 1418,1059 1418,998 1418,998 1418,932 1418,933 1418,867 1420,867 1420,804 1421,800 1421,743 585,743 585,726 585,678 1422,678 1422,673 1422,613 1422,608 1422,550 1425,546 1425,487 1422,480 1422,425 1426,419 1426,357 1425,357 1425,298 1426,293 1426,232 1425,229 1425,168 135,168"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="230,1506 230,1569 230,1568 122,1568 122,1629 122,1633 122,1697 121,1695 121,1759 121,1759 121,1822 121,1824 121,1885 118,1881 118,1946 115,1945 115,2011 120,2019 120,2057 120,2071 224,2071 224,2136 224,2135 116,2135 116,2199 114,2200 114,2262 115,2265 115,2326 1404,2326 1404,2265 1404,2262 1404,2200 1405,2199 1405,2135 1405,2136 1405,2071 329,2071 329,2057 329,2019 1408,2019 1408,2011 1408,1945 1407,1946 1407,1881 1409,1885 1409,1824 1409,1822 1409,1759 1412,1759 1412,1695 1411,1697 1411,1633 1412,1629 1412,1568 1414,1569 1414,1506 230,1506"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:pageNum;}">
+      <Coords points="730,2408 730,2453 775,2453 775,2408 730,2408"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:sig;}">
+      <Coords points="1190,2420 1190,2451 1204,2451 1204,2420 1190,2420"/>
+    </TextRegion>
+    <GraphicRegion id="block_4">
+      <Coords points="541,1155 541,1448 991,1448 991,1155"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

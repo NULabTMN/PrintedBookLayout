@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:42.334158</Created>
+    <LastChange>2021-01-17T09:39:42.334158</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/bach_versuch02_1762_0345.png" imageWidth="1600" imageHeight="1975">
+    <TextRegion id="block_0" custom="structure {type:header;}">
+      <Coords points="485,162 485,233 993,233 993,162 485,162"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="247,251 247,303 247,297 176,297 176,349 165,345 165,394 178,393 178,441 179,440 179,495 180,486 180,534 176,532 176,581 176,580 176,628 175,626 175,681 176,669 176,724 173,718 173,771 172,769 172,812 171,814 171,857 170,859 170,907 169,905 169,954 168,951 168,998 168,997 168,1047 168,1043 168,1097 167,1094 167,1142 167,1137 167,1191 166,1183 166,1236 166,1228 166,1278 165,1275 165,1325 556,1325 556,1275 1292,1275 1292,1278 1292,1228 1292,1236 1292,1183 1294,1191 1294,1137 1294,1142 1294,1094 1294,1097 1294,1043 1296,1047 1296,997 1296,998 1296,951 1298,954 1298,905 1298,907 1298,859 1299,857 1299,814 1299,812 1299,769 1302,771 1302,718 1278,718 1278,724 1278,669 1299,669 1299,681 1299,626 1303,628 1303,580 1300,581 1300,532 1337,532 1337,534 1337,486 1304,486 1304,495 1304,440 1301,441 1301,393 1303,394 1303,345 1301,349 1301,297 1304,303 1304,251 247,251"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:pageNum;}">
+      <Coords points="1230,181 1230,220 1306,220 1306,181 1230,181"/>
+    </TextRegion>
+    <GraphicRegion id="block_3">
+      <Coords points="110,1382 110,1653 1392,1653 1392,1382"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

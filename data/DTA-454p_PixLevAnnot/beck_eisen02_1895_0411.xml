@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:39.625813</Created>
+    <LastChange>2021-01-17T09:39:39.625813</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/beck_eisen02_1895_0411.png" imageWidth="1600" imageHeight="2474">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="206,200 206,256 206,266 126,266 126,310 126,340 522,340 522,377 522,400 324,400 324,446 324,454 364,454 364,499 364,508 325,508 325,545 325,561 366,561 366,596 366,608 326,608 326,656 326,662 369,662 369,707 1144,707 1144,662 1138,656 1138,608 970,608 970,596 970,561 1096,561 1096,545 1096,508 1037,508 1037,499 1037,454 1084,454 1084,446 1084,400 982,400 982,377 982,340 690,340 690,310 690,266 1377,266 1377,256 1377,200 206,200"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="345,1755 345,1799 345,1811 386,1811 386,1854 386,1858 345,1858 345,1907 345,1912 387,1912 387,1958 387,1986 217,1986 217,2037 229,2036 229,2081 234,2087 234,2133 234,2149 157,2149 157,2193 159,2195 159,2238 161,2241 161,2291 1411,2291 1411,2241 1158,2241 1158,2238 1158,2195 918,2195 918,2193 918,2149 1407,2149 1407,2133 1407,2087 1407,2081 1407,2036 1211,2036 1211,2037 1211,1986 1065,1986 1065,1958 1065,1912 1180,1912 1180,1907 1180,1858 1075,1858 1075,1854 1075,1811 1178,1811 1178,1799 1178,1755 345,1755"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:pageNum;}">
+      <Coords points="1317,138 1317,167 1372,167 1372,138 1317,138"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:header;}">
+      <Coords points="335,139 335,192 1165,192 1165,139 335,139"/>
+    </TextRegion>
+    <TextRegion id="block_4" custom="structure {type:figure;}">
+      <Coords points="692,748 692,776 820,776 820,748 692,748"/>
+    </TextRegion>
+    <GraphicRegion id="block_5">
+      <Coords points="421,785 421,1676 1133,1676 1133,785"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

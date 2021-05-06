@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:47.908541</Created>
+    <LastChange>2021-01-17T09:39:47.908541</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/bach_versuch01_1759_0126.png" imageWidth="1600" imageHeight="1970">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="316,240 316,290 331,284 331,333 331,329 331,382 323,375 323,427 331,421 331,471 321,467 321,512 329,511 329,558 326,557 326,605 330,602 330,649 330,648 330,694 329,688 329,740 330,734 330,782 324,779 324,831 324,827 324,879 305,873 305,922 324,918 324,967 325,964 325,1008 327,1005 327,1051 327,1046 327,1099 326,1092 326,1145 325,1138 325,1191 325,1197 325,1242 461,1242 461,1197 1428,1197 1428,1191 1428,1138 1429,1145 1429,1092 1429,1099 1429,1046 1431,1051 1431,1005 1430,1008 1430,964 1431,967 1431,918 1431,922 1431,873 1432,879 1432,827 1431,831 1431,779 1470,779 1470,782 1470,734 1435,734 1435,740 1435,688 1431,694 1431,648 1432,649 1432,602 1432,605 1432,557 1432,558 1432,511 1433,512 1433,467 1433,471 1433,421 1433,427 1433,375 1429,382 1429,329 1431,333 1431,284 1430,290 1430,240 316,240"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:pageNum;}">
+      <Coords points="322,178 322,225 397,225 397,178 322,178"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:header;}">
+      <Coords points="668,166 668,227 1091,227 1091,166 668,166"/>
+    </TextRegion>
+    <GraphicRegion id="block_3">
+      <Coords points="766,1314 766,1516 1000,1516 1000,1314"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:38.108093</Created>
+    <LastChange>2021-01-17T09:39:38.108093</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/avelallemant_gaunerthum04_1862_0037.png" imageWidth="1600" imageHeight="2712">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="106,287 106,335 107,349 107,397 107,410 107,459 109,472 109,519 109,533 109,581 110,590 110,643 109,655 109,704 110,713 110,765 109,779 109,825 109,840 204,840 204,888 830,888 830,840 588,840 588,825 588,779 1341,779 1341,765 1341,713 1342,704 1342,655 1340,643 1340,590 1342,581 1342,533 1341,519 1341,472 1341,459 1341,410 1343,397 1343,349 1341,335 1341,287 106,287"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="203,2065 203,2114 203,2127 114,2127 114,2176 113,2183 113,2236 114,2248 114,2297 114,2309 114,2358 114,2370 114,2419 1344,2419 1344,2370 1342,2358 1342,2309 1342,2297 1342,2248 1343,2236 1343,2183 1340,2176 1340,2127 1342,2114 1342,2065 203,2065"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:pageNum;}">
+      <Coords points="696,188 696,228 750,228 750,188 696,188"/>
+    </TextRegion>
+    <GraphicRegion id="block_3">
+      <Coords points="115,910 115,1995 1325,1995 1325,910"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

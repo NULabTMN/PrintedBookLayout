@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:37.263797</Created>
+    <LastChange>2021-01-17T09:39:37.263797</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/bach_versuch01_1759_0082.png" imageWidth="1600" imageHeight="1970">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="339,261 339,308 338,308 338,355 333,354 333,397 333,397 397,397 397,442 397,445 340,445 340,488 341,490 341,533 340,535 340,579 339,578 339,625 343,625 343,670 346,667 346,713 340,711 340,756 339,753 339,801 339,800 339,846 338,847 338,893 337,894 337,940 338,939 338,983 340,983 340,1024 341,1023 341,1068 341,1066 341,1116 341,1112 341,1164 339,1156 339,1212 339,1202 339,1256 338,1248 338,1301 337,1294 337,1345 337,1340 337,1391 957,1391 957,1340 1436,1340 1436,1345 1436,1294 1437,1301 1437,1248 1436,1256 1436,1202 1438,1212 1438,1156 1438,1164 1438,1112 1437,1116 1437,1066 1437,1068 1437,1023 1436,1024 1436,983 1438,983 1438,939 1440,940 1440,894 1440,893 1440,847 1438,846 1438,800 1439,801 1439,753 1438,756 1438,711 1438,713 1438,667 1242,667 1242,670 1242,625 1439,625 1439,625 1439,578 1480,578 1480,579 1480,535 1440,535 1440,533 1440,490 1438,488 1438,445 1439,442 1439,397 1185,397 1185,397 1185,354 1439,354 1439,355 1439,308 1438,308 1438,261 339,261"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:header;}">
+      <Coords points="414,189 414,237 1438,237 1438,189 414,189"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:pageNum;}">
+      <Coords points="335,199 335,240 384,240 384,199 335,199"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:catch;}">
+      <Coords points="1290,1600 1290,1645 1434,1645 1434,1600 1290,1600"/>
+    </TextRegion>
+    <TextRegion id="block_4" custom="structure {type:note;}">
+      <Coords points="199,276 199,305 323,305 323,276 199,276"/>
+    </TextRegion>
+    <TextRegion id="block_5" custom="structure {type:note;}">
+      <Coords points="211,624 211,654 326,654 326,624 211,624"/>
+    </TextRegion>
+    <GraphicRegion id="block_6">
+      <Coords points="758,1425 758,1605 1020,1605 1020,1425"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

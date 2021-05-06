@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:34.423193</Created>
+    <LastChange>2021-01-17T09:39:34.423193</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/brehm_thierleben01_1864_0320.png" imageWidth="1600" imageHeight="2460">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="118,187 118,232 120,233 120,278 120,280 120,323 121,326 121,369 121,372 121,415 121,425 121,461 121,509 200,509 200,552 200,554 123,554 123,599 124,601 124,645 125,646 125,690 124,694 124,736 126,740 126,782 1530,782 1530,740 1530,736 1530,694 1529,690 1529,646 1529,645 1529,601 1530,599 1530,554 1528,552 1528,509 400,509 400,461 400,425 1527,425 1527,415 1527,372 1528,369 1528,326 1527,323 1527,280 1527,278 1527,233 1526,232 1526,187 118,187"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="135,1775 135,1821 134,1821 134,1866 136,1865 136,1911 135,1910 135,1957 135,1956 135,2001 135,2001 135,2047 137,2046 137,2093 137,2100 137,2139 137,2137 211,2137 211,2184 211,2183 136,2183 136,2229 136,2228 136,2274 136,2273 136,2319 135,2320 135,2367 1538,2367 1538,2320 1537,2319 1537,2273 1536,2274 1536,2228 1537,2229 1537,2183 1536,2184 1536,2137 640,2137 640,2139 640,2100 1536,2100 1536,2093 1536,2046 1536,2047 1536,2001 1535,2001 1535,1956 1535,1957 1535,1910 1535,1911 1535,1865 1535,1866 1535,1821 1533,1821 1533,1775 135,1775"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:pageNum;}">
+      <Coords points="119,120 119,148 174,148 174,120 119,120"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:header;}">
+      <Coords points="442,111 442,146 1207,146 1207,111 442,111"/>
+    </TextRegion>
+    <TextRegion id="block_4" custom="structure {type:figure;}">
+      <Coords points="609,1693 609,1718 1061,1718 1061,1693 609,1693"/>
+    </TextRegion>
+    <GraphicRegion id="block_5">
+      <Coords points="155,777 155,1736 1502,1736 1502,777"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>

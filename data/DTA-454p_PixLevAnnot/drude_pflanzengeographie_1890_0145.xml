@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>regJS2PAGE.py</Creator>
+    <Created>2021-01-17T09:39:45.952409</Created>
+    <LastChange>2021-01-17T09:39:45.952409</LastChange>
+  </Metadata>
+  <Page imageFilename="Samples-fig-sel/drude_pflanzengeographie_1890_0145.png" imageWidth="1600" imageHeight="2407">
+    <TextRegion id="block_0" custom="structure {type:body;}">
+      <Coords points="262,286 262,330 262,325 160,325 160,373 159,363 159,409 159,402 159,447 161,441 161,491 162,481 162,526 1348,526 1348,481 1346,491 1346,441 1347,447 1347,402 1348,409 1348,363 1348,373 1348,325 1348,330 1348,286 262,286"/>
+    </TextRegion>
+    <TextRegion id="block_1" custom="structure {type:body;}">
+      <Coords points="158,1957 158,2003 159,1997 159,2043 158,2035 158,2081 158,2072 158,2117 158,2110 158,2156 159,2149 159,2188 1350,2188 1350,2149 1350,2156 1350,2110 1350,2117 1350,2072 1350,2081 1350,2035 1348,2043 1348,1997 1349,2003 1349,1957 158,1957"/>
+    </TextRegion>
+    <TextRegion id="block_2" custom="structure {type:pageNum;}">
+      <Coords points="1280,203 1280,238 1349,238 1349,203 1280,203"/>
+    </TextRegion>
+    <TextRegion id="block_3" custom="structure {type:header;}">
+      <Coords points="545,192 545,227 960,227 960,192 545,192"/>
+    </TextRegion>
+    <GraphicRegion id="block_4">
+      <Coords points="123,538 123,1947 1319,1947 1319,538"/>
+    </GraphicRegion>
+  </Page>
+</PcGts>
