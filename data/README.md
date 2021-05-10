@@ -2,7 +2,7 @@
 # Data
 
 * **DTA-454p_PixLevAnnot/**: Directory containing the 454 verified
-pair samples of page image (previsouly binarized) and corresponding
+pair samples of page image (previously binarized) and corresponding
 pixel-level annotated regions (in XML-PAGE format).
 
 * **DTA-train_PixLevAnnot.lst** and **DTA-test_PixLevAnnot.lst**:
@@ -14,7 +14,7 @@ of the test set, with the OCRd detected word locations used for
 computing the word-level metrics.
 
 * **DTA-RegLevAnnot.json** and **WWO-RegLevAnnot.json**: JSON files of
-the whole DTA and WWO datsets containing the ground-truth region tags
+the whole DTA and WWO datasets containing the ground-truth region tags
 used for computing the region-level metrics.
 
 
