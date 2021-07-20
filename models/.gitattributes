@@ -1,0 +1,2 @@
+U-net_trainEvalOnDTA_round1.pth filter=lfs diff=lfs merge=lfs -text
+U-net_trainEvalOnDTA_round2.pth filter=lfs diff=lfs merge=lfs -text
