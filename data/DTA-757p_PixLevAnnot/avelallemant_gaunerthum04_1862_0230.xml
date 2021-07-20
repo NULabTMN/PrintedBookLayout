@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>regJS2PAGE.py</Creator>
+<Created>2021-02-16T10:45:28.987890</Created>
+<LastChange>2021-02-16T10:45:28.987890</LastChange>
+</Metadata>
+<Page imageFilename="tmp/avelallemant_gaunerthum04_1862_0230.png" imageWidth="1600" imageHeight="2706">
+<TextRegion id="block_0" custom="structure {type:body;}">
+<Coords points="690,282 690,324 692,342 692,386 692,403 692,448 692,465 739,465 739,507 739,525 692,525 692,570 690,585 690,629 691,646 691,690 691,707 738,707 738,750 738,767 693,767 693,812 693,888 693,932 692,949 692,994 692,1011 739,1011 739,1054 739,1071 691,1071 691,1116 691,1132 737,1132 737,1177 737,1193 692,1193 692,1229 690,1256 690,1290 691,1314 691,1350 692,1375 692,1420 692,1435 738,1435 738,1479 738,1495 691,1495 691,1541 691,1558 691,1598 691,1618 691,1654 691,1678 691,1722 689,1738 689,1782 691,1799 691,1844 691,1859 737,1859 737,1902 737,1920 690,1920 690,1965 691,1981 691,2017 690,2041 690,2087 689,2103 689,2138 827,2138 827,2103 949,2103 949,2087 949,2041 773,2041 773,2017 773,1981 844,1981 844,1965 844,1920 896,1920 896,1902 896,1859 918,1859 918,1844 918,1799 915,1782 915,1738 863,1738 863,1722 863,1678 798,1678 798,1654 798,1618 849,1618 849,1598 849,1558 1083,1558 1083,1541 1083,1495 943,1495 943,1479 943,1435 1033,1435 1033,1420 1033,1375 808,1375 808,1350 808,1314 823,1290 823,1256 823,1229 823,1193 834,1177 834,1132 906,1132 906,1116 906,1071 870,1071 870,1054 870,1011 1058,1011 1058,994 1058,949 960,949 960,932 960,888 1067,888 1067,812 1067,767 853,767 853,750 853,707 1081,707 1081,690 1081,646 971,646 971,629 971,585 993,585 993,570 993,525 853,525 853,507 853,465 1037,465 1037,448 1037,403 799,403 799,386 799,342 858,342 858,324 858,282 690,282"/>
+<TextLine id="line_0">
+<Coords points="690,282 858,282 858,324 690,324 690,282"/>
+<Baseline points="690,324 858,324"/>
+<TextEquiv><Unicode>Schauder</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_1">
+<Coords points="692,342 799,342 799,386 692,386 692,342"/>
+<Baseline points="692,386 799,386"/>
+<TextEquiv><Unicode>ſchofel</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_2">
+<Coords points="692,403 827,403 866,403 1037,403 1037,447 866,447 827,448 692,448 692,403"/>
+<Baseline points="692,448 827,448 866,447 1037,447"/>
+<TextEquiv><Unicode>Kittche, Malochen-</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_3">
+<Coords points="739,465 853,465 853,507 739,507 739,465"/>
+<Baseline points="739,507 853,507"/>
+<TextEquiv><Unicode>Bayes</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_4">
+<Coords points="692,525 772,525 798,528 832,528 858,525 993,525 993,566 858,566 832,561 798,561 772,570 692,570 692,525"/>
+<Baseline points="692,570 772,570 798,561 832,561 858,566 993,566"/>
+<TextEquiv><Unicode>Eritz de Buchim</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_5">
+<Coords points="690,585 971,585 971,629 690,629 690,585"/>
+<Baseline points="690,629 971,629"/>
+<TextEquiv><Unicode>Schochermajum</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_6">
+<Coords points="691,646 793,646 818,646 889,646 900,676 908,676 942,646 1081,646 1081,683 942,683 908,690 900,690 889,689 818,689 793,689 691,689 691,646"/>
+<Baseline points="691,689 793,689 818,689 889,689 900,690 908,690 942,683 1081,683"/>
+<TextEquiv><Unicode>Böſer Jſch, Karann</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_7">
+<Coords points="738,707 853,707 853,750 738,750 738,707"/>
+<Baseline points="738,750 853,750"/>
+<TextEquiv><Unicode>Fettſer</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_8">
+<Coords points="693,767 886,767 912,767 1067,767 1067,812 912,812 886,812 693,812 693,767"/>
+<Baseline points="693,812 886,812 912,812 1067,812"/>
+<TextEquiv><Unicode>Lättchener, Sebecher</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_9">
+<Coords points="693,889 803,889 827,888 960,888 960,925 827,925 803,932 693,932 693,889"/>
+<Baseline points="693,932 803,932 827,925 960,925"/>
+<TextEquiv><Unicode>Gaiſſe Malnie</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_10">
+<Coords points="692,950 889,950 921,949 1058,949 1058,994 921,994 889,993 692,993 692,950"/>
+<Baseline points="692,993 889,993 921,994 1058,994"/>
+<TextEquiv><Unicode>Lattchenen, ſachern,</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_11">
+<Coords points="739,1011 870,1011 870,1054 739,1054 739,1011"/>
+<Baseline points="739,1054 870,1054"/>
+<TextEquiv><Unicode>quinten</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_12">
+<Coords points="691,1071 906,1071 906,1116 691,1116 691,1071"/>
+<Baseline points="691,1116 906,1116"/>
+<TextEquiv><Unicode>Torfdrucker, Gailef-</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_13">
+<Coords points="737,1132 834,1132 834,1177 737,1177 737,1132"/>
+<Baseline points="737,1177 834,1177"/>
+<TextEquiv><Unicode>zieher</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_14">
+<Coords points="692,1193 823,1193 823,1229 692,1229 692,1193"/>
+<Baseline points="692,1229 823,1229"/>
+<TextEquiv><Unicode>Gaurin</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_15">
+<Coords points="690,1256 823,1256 823,1290 690,1290 690,1256"/>
+<Baseline points="690,1290 823,1290"/>
+<TextEquiv><Unicode>wuttlen</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_16">
+<Coords points="691,1314 808,1314 808,1350 691,1350 691,1314"/>
+<Baseline points="691,1350 808,1350"/>
+<TextEquiv><Unicode>Geider</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_17">
+<Coords points="692,1375 809,1375 851,1375 1033,1375 1033,1420 851,1420 809,1411 692,1411 692,1375"/>
+<Baseline points="692,1411 809,1411 851,1420 1033,1420"/>
+<TextEquiv><Unicode>Geider belattchen,</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_18">
+<Coords points="738,1435 943,1435 943,1479 738,1479 738,1435"/>
+<Baseline points="738,1479 943,1479"/>
+<TextEquiv><Unicode>ausſacheren</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_19">
+<Coords points="691,1495 850,1495 861,1497 898,1497 921,1496 1083,1496 1083,1538 921,1538 898,1540 861,1540 850,1541 691,1541 691,1495"/>
+<Baseline points="691,1541 850,1541 861,1540 898,1540 921,1538 1083,1538"/>
+<TextEquiv><Unicode>Lattihner, Säbecher</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_20">
+<Coords points="691,1558 849,1558 849,1598 691,1598 691,1558"/>
+<Baseline points="691,1598 849,1598"/>
+<TextEquiv><Unicode>latchenen</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_21">
+<Coords points="691,1618 798,1618 798,1654 691,1654 691,1618"/>
+<Baseline points="691,1654 798,1654"/>
+<TextEquiv><Unicode>Toltel</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_22">
+<Coords points="691,1678 863,1678 863,1722 691,1722 691,1678"/>
+<Baseline points="691,1722 863,1722"/>
+<TextEquiv><Unicode>ſchwächen</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_23">
+<Coords points="689,1738 915,1738 915,1782 689,1782 689,1738"/>
+<Baseline points="689,1782 915,1782"/>
+<TextEquiv><Unicode>Schwächerick</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_24">
+<Coords points="691,1799 882,1799 888,1801 918,1801 918,1844 888,1844 882,1843 691,1843 691,1799"/>
+<Baseline points="691,1843 882,1843 888,1844 918,1844"/>
+<TextEquiv><Unicode>Giſchſchmol, Ge-</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_25">
+<Coords points="737,1859 896,1859 896,1902 737,1902 737,1859"/>
+<Baseline points="737,1902 896,1902"/>
+<TextEquiv><Unicode>ſchmeilen</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_26">
+<Coords points="690,1920 844,1920 844,1965 690,1965 690,1920"/>
+<Baseline points="690,1965 844,1965"/>
+<TextEquiv><Unicode>Schwarz</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_27">
+<Coords points="691,1981 773,1981 773,2017 691,2017 691,1981"/>
+<Baseline points="691,2017 773,2017"/>
+<TextEquiv><Unicode>Kiör</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_28">
+<Coords points="690,2041 949,2041 949,2087 690,2087 690,2041"/>
+<Baseline points="690,2087 949,2087"/>
+<TextEquiv><Unicode>Schwarzfärber</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_29">
+<Coords points="689,2103 827,2103 827,2138 689,2138 689,2103"/>
+<Baseline points="689,2138 827,2138"/>
+<TextEquiv><Unicode>Dockum</Unicode></TextEquiv>
+</TextLine>
+
+</TextRegion>
+<TextRegion id="block_1" custom="structure {type:body;}">
+<Coords points="1111,283 1111,318 1110,342 1110,388 1109,465 1109,509 1110,525 1110,569 1110,586 1110,630 1110,707 1110,754 1110,769 1110,805 1109,889 1109,935 1110,1012 1110,1054 1110,1131 1110,1175 1110,1193 1110,1235 1110,1254 1110,1298 1109,1314 1109,1351 1110,1435 1110,1472 1110,1497 1110,1533 1110,1557 1110,1601 1111,1617 1111,1661 1111,1679 1111,1714 1111,1740 1111,1783 1108,1861 1108,1907 1109,1921 1109,1964 1110,1982 1110,2025 1110,2042 1110,2085 1108,2102 1108,2146 1202,2146 1202,2102 1250,2102 1250,2085 1250,2042 1325,2042 1325,2025 1325,1982 1293,1982 1293,1964 1293,1921 1276,1907 1276,1861 1223,1861 1223,1783 1223,1740 1239,1714 1239,1679 1267,1679 1267,1661 1267,1617 1235,1617 1235,1601 1235,1557 1206,1557 1206,1533 1206,1497 1504,1497 1504,1472 1504,1435 1229,1435 1229,1351 1229,1314 1258,1314 1258,1298 1258,1254 1271,1235 1271,1193 1391,1193 1391,1175 1391,1131 1234,1131 1234,1054 1234,1012 1374,1012 1374,935 1374,889 1206,889 1206,805 1206,769 1282,769 1282,754 1282,707 1231,707 1231,630 1231,586 1301,586 1301,569 1301,525 1308,509 1308,465 1415,465 1415,388 1415,342 1325,342 1325,318 1325,283 1111,283"/>
+<TextLine id="line_30">
+<Coords points="1111,283 1325,283 1325,318 1111,318 1111,283"/>
+<Baseline points="1111,318 1325,318"/>
+<TextEquiv><Unicode>Amtsdiener.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_31">
+<Coords points="1110,343 1261,343 1287,342 1415,342 1415,387 1287,387 1261,388 1110,388 1110,343"/>
+<Baseline points="1110,388 1261,388 1287,387 1415,387"/>
+<TextEquiv><Unicode>ſchlimm, ſchlecht.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_32">
+<Coords points="1109,465 1308,465 1308,509 1109,509 1109,465"/>
+<Baseline points="1109,509 1308,509"/>
+<TextEquiv><Unicode>Zuchthaus.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_33">
+<Coords points="1110,525 1301,525 1301,569 1110,569 1110,525"/>
+<Baseline points="1110,569 1301,569"/>
+<TextEquiv><Unicode>Kartoffeln.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_34">
+<Coords points="1110,586 1231,586 1231,630 1110,630 1110,586"/>
+<Baseline points="1110,630 1231,630"/>
+<TextEquiv><Unicode>Kaffee.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_35">
+<Coords points="1110,707 1282,707 1282,754 1110,754 1110,707"/>
+<Baseline points="1110,754 1282,754"/>
+<TextEquiv><Unicode>Hatſchier.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_36">
+<Coords points="1110,769 1206,769 1206,805 1110,805 1110,769"/>
+<Baseline points="1110,805 1206,805"/>
+<TextEquiv><Unicode>Dieb.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_37">
+<Coords points="1109,889 1374,889 1374,935 1109,935 1109,889"/>
+<Baseline points="1109,935 1374,935"/>
+<TextEquiv><Unicode>Diebsherberge.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_38">
+<Coords points="1110,1012 1234,1012 1234,1054 1110,1054 1110,1012"/>
+<Baseline points="1110,1054 1234,1054"/>
+<TextEquiv><Unicode>ſtehlen.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_39">
+<Coords points="1110,1131 1391,1131 1391,1175 1110,1175 1110,1131"/>
+<Baseline points="1110,1175 1391,1175"/>
+<TextEquiv><Unicode>Beutelſchneider.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_40">
+<Coords points="1110,1193 1271,1193 1271,1235 1110,1235 1110,1193"/>
+<Baseline points="1110,1235 1271,1235"/>
+<TextEquiv><Unicode>Scheune.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_41">
+<Coords points="1110,1254 1258,1254 1258,1298 1110,1298 1110,1254"/>
+<Baseline points="1110,1298 1258,1298"/>
+<TextEquiv><Unicode>ſprechen.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_42">
+<Coords points="1109,1314 1229,1314 1229,1351 1109,1351 1109,1314"/>
+<Baseline points="1109,1351 1229,1351"/>
+<TextEquiv><Unicode>Stube.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_43">
+<Coords points="1110,1437 1158,1437 1183,1435 1292,1435 1321,1436 1504,1436 1504,1471 1321,1471 1292,1471 1183,1471 1158,1472 1110,1472 1110,1437"/>
+<Baseline points="1110,1472 1158,1472 1183,1471 1292,1471 1321,1471 1504,1471"/>
+<TextEquiv><Unicode>die Stube ausleeren.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_44">
+<Coords points="1110,1497 1206,1497 1206,1533 1110,1533 1110,1497"/>
+<Baseline points="1110,1533 1206,1533"/>
+<TextEquiv><Unicode>Dieb.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_45">
+<Coords points="1110,1557 1235,1557 1235,1601 1110,1601 1110,1557"/>
+<Baseline points="1110,1601 1235,1601"/>
+<TextEquiv><Unicode>ſtehlen.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_46">
+<Coords points="1111,1617 1267,1617 1267,1661 1111,1661 1111,1617"/>
+<Baseline points="1111,1661 1267,1661"/>
+<TextEquiv><Unicode>Schüſſel.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_47">
+<Coords points="1111,1679 1239,1679 1239,1714 1111,1714 1111,1679"/>
+<Baseline points="1111,1714 1239,1714"/>
+<TextEquiv><Unicode>trinken.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_48">
+<Coords points="1111,1740 1223,1740 1223,1783 1111,1783 1111,1740"/>
+<Baseline points="1111,1783 1223,1783"/>
+<TextEquiv><Unicode>Durſt.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_49">
+<Coords points="1108,1861 1276,1861 1276,1907 1108,1907 1108,1861"/>
+<Baseline points="1108,1907 1276,1907"/>
+<TextEquiv><Unicode>Zigeuner.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_50">
+<Coords points="1109,1922 1156,1922 1182,1921 1293,1921 1293,1964 1182,1964 1156,1957 1109,1957 1109,1922"/>
+<Baseline points="1109,1957 1156,1957 1182,1964 1293,1964"/>
+<TextEquiv><Unicode>die Nacht.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_51">
+<Coords points="1110,1982 1325,1982 1325,2025 1110,2025 1110,1982"/>
+<Baseline points="1110,2025 1325,2025"/>
+<TextEquiv><Unicode>Schornſtein.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_52">
+<Coords points="1110,2042 1250,2042 1250,2085 1110,2085 1110,2042"/>
+<Baseline points="1110,2085 1250,2085"/>
+<TextEquiv><Unicode>Pfarrer.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_53">
+<Coords points="1108,2102 1202,2102 1202,2146 1108,2146 1108,2102"/>
+<Baseline points="1108,2146 1202,2146"/>
+<TextEquiv><Unicode>Fiſch.</Unicode></TextEquiv>
+</TextLine>
+
+</TextRegion>
+<TextRegion id="block_2" custom="structure {type:body;}">
+<Coords points="238,280 238,324 238,341 274,341 274,386 274,402 274,447 274,463 319,463 319,508 319,515 273,515 273,568 272,585 272,628 272,645 272,690 272,767 272,810 272,827 272,874 272,889 319,889 319,925 319,949 273,949 273,994 273,1070 273,1115 272,1192 272,1236 272,1253 272,1297 273,1315 273,1354 272,1373 272,1420 271,1497 271,1540 270,1557 270,1601 271,1618 271,1661 271,1679 271,1723 271,1740 271,1783 270,1801 270,1845 270,1923 270,1966 270,1981 270,2027 269,2043 269,2087 270,2104 270,2149 552,2149 552,2104 528,2104 528,2087 528,2043 541,2027 541,1981 423,1981 423,1966 423,1923 511,1923 511,1845 511,1801 460,1801 460,1783 460,1740 467,1723 467,1679 418,1679 418,1661 418,1618 444,1618 444,1601 444,1557 440,1540 440,1497 545,1497 545,1420 545,1373 434,1373 434,1354 434,1315 457,1315 457,1297 457,1253 449,1236 449,1192 517,1192 517,1115 517,1070 440,1070 440,994 440,949 391,949 391,925 391,889 662,889 662,874 662,827 379,827 379,810 379,767 437,767 437,690 437,645 423,628 423,585 472,585 472,568 472,515 413,515 413,508 413,463 664,463 664,447 664,402 406,402 406,386 406,341 447,341 447,324 447,280 238,280"/>
+<TextLine id="line_54">
+<Coords points="238,309 246,309 273,280 447,280 447,324 273,324 246,323 238,323 238,309"/>
+<Baseline points="238,323 246,323 273,324 447,324"/>
+<TextEquiv><Unicode>Schoderer</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_55">
+<Coords points="274,341 406,341 406,386 274,386 274,341"/>
+<Baseline points="274,386 406,386"/>
+<TextEquiv><Unicode>Schofel</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_56">
+<Coords points="274,402 548,402 560,402 664,402 664,447 560,447 548,447 274,447 274,402"/>
+<Baseline points="274,447 548,447 560,447 664,447"/>
+<TextEquiv><Unicode>Schofel-Bayes, Scho-</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_57">
+<Coords points="319,463 413,463 413,508 319,508 319,463"/>
+<Baseline points="319,508 413,508"/>
+<TextEquiv><Unicode>felkitt</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_58">
+<Coords points="273,515 472,515 472,568 273,568 273,515"/>
+<Baseline points="273,568 472,568"/>
+<TextEquiv><Unicode>Schokelcher</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_59">
+<Coords points="272,585 423,585 423,628 272,628 272,585"/>
+<Baseline points="272,628 423,628"/>
+<TextEquiv><Unicode>Schokker</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_60">
+<Coords points="272,645 437,645 437,690 272,690 272,645"/>
+<Baseline points="272,690 437,690"/>
+<TextEquiv><Unicode>Schopper</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_61">
+<Coords points="272,767 379,767 379,810 272,810 272,767"/>
+<Baseline points="272,810 379,810"/>
+<TextEquiv><Unicode>Schor</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_62">
+<Coords points="272,828 521,828 542,827 662,827 662,871 542,871 521,874 272,874 272,828"/>
+<Baseline points="272,874 521,874 542,871 662,871"/>
+<TextEquiv><Unicode>Schor-Bayes, Schor-</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_63">
+<Coords points="319,889 391,889 391,925 319,925 319,889"/>
+<Baseline points="319,925 391,925"/>
+<TextEquiv><Unicode>Kitt</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_64">
+<Coords points="273,949 440,949 440,994 273,994 273,949"/>
+<Baseline points="273,994 440,994"/>
+<TextEquiv><Unicode>Schornen</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_65">
+<Coords points="273,1070 517,1070 517,1115 273,1115 273,1070"/>
+<Baseline points="273,1115 517,1115"/>
+<TextEquiv><Unicode>Schortenfeller</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_66">
+<Coords points="272,1192 449,1192 449,1236 272,1236 272,1192"/>
+<Baseline points="272,1236 449,1236"/>
+<TextEquiv><Unicode>Schowelle</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_67">
+<Coords points="272,1253 457,1253 457,1297 272,1297 272,1253"/>
+<Baseline points="272,1297 457,1297"/>
+<TextEquiv><Unicode>Schranzen</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_68">
+<Coords points="273,1315 434,1315 434,1354 273,1354 273,1315"/>
+<Baseline points="273,1354 434,1354"/>
+<TextEquiv><Unicode>Schrende</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_69">
+<Coords points="272,1375 432,1375 459,1373 545,1373 545,1420 459,1420 432,1419 272,1419 272,1375"/>
+<Baseline points="272,1419 432,1419 459,1420 545,1420"/>
+<TextEquiv><Unicode>Schrende fegen</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_70">
+<Coords points="271,1497 440,1497 440,1540 271,1540 271,1497"/>
+<Baseline points="271,1540 440,1540"/>
+<TextEquiv><Unicode>Schupper</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_71">
+<Coords points="270,1557 444,1557 444,1601 270,1601 270,1557"/>
+<Baseline points="270,1601 444,1601"/>
+<TextEquiv><Unicode>Schuppen</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_72">
+<Coords points="271,1618 418,1618 418,1661 271,1661 271,1618"/>
+<Baseline points="271,1661 418,1661"/>
+<TextEquiv><Unicode>Schuttel</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_73">
+<Coords points="271,1679 467,1679 467,1723 271,1723 271,1679"/>
+<Baseline points="271,1723 467,1723"/>
+<TextEquiv><Unicode>Schwächen</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_74">
+<Coords points="271,1740 460,1740 460,1783 271,1783 271,1740"/>
+<Baseline points="271,1783 460,1783"/>
+<TextEquiv><Unicode>Schwächer</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_75">
+<Coords points="270,1801 511,1801 511,1845 270,1845 270,1801"/>
+<Baseline points="270,1845 511,1845"/>
+<TextEquiv><Unicode>Schwählemer</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_76">
+<Coords points="270,1923 423,1923 423,1966 270,1966 270,1923"/>
+<Baseline points="270,1966 423,1966"/>
+<TextEquiv><Unicode>Schwarz</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_77">
+<Coords points="270,1984 423,1984 432,1996 443,1996 452,1981 541,1981 541,2025 452,2025 443,2011 432,2011 423,2027 270,2027 270,1984"/>
+<Baseline points="270,2027 423,2027 432,2011 443,2011 452,2025 541,2025"/>
+<TextEquiv><Unicode>Schwarz-Arſch</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_78">
+<Coords points="269,2043 528,2043 528,2087 269,2087 269,2043"/>
+<Baseline points="269,2087 528,2087"/>
+<TextEquiv><Unicode>Schwarzfärber</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_79">
+<Coords points="270,2104 552,2104 552,2149 270,2149 270,2104"/>
+<Baseline points="270,2149 552,2149"/>
+<TextEquiv><Unicode>Schwimmerling</Unicode></TextEquiv>
+</TextLine>
+
+</TextRegion>
+<TextRegion id="block_3" custom="structure {type:pageNum;}">
+<Coords points="845,183 845,221 924,221 924,183 845,183"/>
+<TextLine id="line_80">
+<Coords points="845,183 924,183 924,221 845,221 845,183"/>
+<Baseline points="845,221 924,221"/>
+<TextEquiv><Unicode>218</Unicode></TextEquiv>
+</TextLine>
+
+</TextRegion>
+<TextRegion id="block_4" custom="structure {type:note;}">
+<Coords points="400,2265 400,2303 406,2313 406,2356 406,2353 272,2353 272,2397 968,2397 968,2353 1506,2353 1506,2356 1506,2313 1370,2313 1370,2303 1370,2265 400,2265"/>
+<TextLine id="line_81">
+<Coords points="400,2266 592,2266 616,2265 696,2265 719,2265 762,2265 783,2266 889,2266 899,2275 986,2275 1009,2275 1069,2275 1092,2267 1177,2267 1202,2267 1261,2267 1283,2265 1370,2265 1370,2296 1283,2296 1261,2300 1202,2300 1177,2301 1092,2301 1069,2295 1009,2295 986,2300 899,2300 889,2303 783,2303 762,2296 719,2296 696,2300 616,2300 592,2299 400,2299 400,2266"/>
+<Baseline points="400,2299 592,2299 616,2300 696,2300 719,2296 762,2296 783,2303 889,2303 899,2300 986,2300 1009,2295 1069,2295 1092,2301 1177,2301 1202,2300 1261,2300 1283,2296 1370,2296"/>
+<TextEquiv><Unicode>Lattihner, Dieb, für Lattchener, vom böhm. Lat, Latka.</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_82">
+<Coords points="406,2315 518,2315 541,2314 569,2314 591,2314 669,2314 693,2313 831,2313 855,2314 991,2314 1021,2315 1096,2315 1121,2314 1221,2314 1242,2317 1340,2317 1360,2317 1394,2317 1414,2314 1506,2314 1506,2343 1414,2343 1394,2356 1360,2356 1340,2352 1242,2352 1221,2351 1121,2351 1096,2351 1021,2351 991,2350 855,2350 831,2347 693,2347 669,2342 591,2342 569,2347 541,2347 518,2343 406,2343 406,2315"/>
+<Baseline points="406,2343 518,2343 541,2347 569,2347 591,2342 669,2342 693,2347 831,2347 855,2350 991,2350 1021,2351 1096,2351 1121,2351 1221,2351 1242,2352 1340,2352 1360,2356 1394,2356 1414,2343 1506,2343"/>
+<TextEquiv><Unicode>Toltel iſt neben Schuttel, Schüſſel, falſch hierher geſetzt, da Toltel</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_83">
+<Coords points="272,2362 346,2362 366,2361 499,2361 522,2362 534,2362 541,2362 628,2362 639,2384 646,2384 668,2368 719,2368 740,2353 824,2353 847,2362 968,2362 968,2391 847,2391 824,2397 740,2397 719,2391 668,2391 646,2395 639,2395 628,2391 541,2391 534,2396 522,2396 499,2396 366,2396 346,2390 272,2390 272,2362"/>
+<Baseline points="272,2390 346,2390 366,2396 499,2396 522,2396 534,2396 541,2391 628,2391 639,2395 646,2395 668,2391 719,2391 740,2397 824,2397 847,2391 968,2391"/>
+<TextEquiv><Unicode>einen Schlüſſel (Taltel, von ) bedeutet.</Unicode></TextEquiv>
+</TextLine>
+
+</TextRegion>
+</Page>
+</PcGts>
