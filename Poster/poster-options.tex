@@ -1,0 +1,78 @@
+%% ----------------------------------------------------------------------------
+%% Poster (5) options: settings, title, author(s), eyecather image, and logos
+%%
+
+\def\posterconfig{
+	%\input{poster-theme}
+	% cannot load poster settings from a separate file... (keyval error) -- must be set in poster.tex
+}
+
+\def\postertitle{\vspace{.2em}
+  %\centering
+  \hspace{-.7em}%
+  \begin{minipage}[b]{.25\linewidth}
+   \raisebox{.45em}{ 
+    \includegraphics[width=\linewidth]{Khoury_logo}}
+  \end{minipage}%\hspace{-.8em}%
+  \raisebox{.6em}{
+    \begin{minipage}[b]{.58\linewidth}
+      \centering
+      \bf{\huge Digital Editions as Distant Supervision\\[-.3em]
+        for Layout Analysis of Printed Books}
+    \end{minipage}}%\hspace{.01\linewidth}%
+  \begin{minipage}[b]{.15\linewidth}
+    %\includegraphics[height=2.1em]{OpenITI_logo}\hspace{.3em}%
+    \raisebox{.4em}{
+    \includegraphics[width=\linewidth]{Mellon-Logo}}
+  \end{minipage}
+}
+
+\def\posterauthor{\vspace{-.5em}%
+  \hspace{4em}Alejandro H. Toselli, Si Wu, and David A. Smith
+}
+
+\def\postereyecatcher{
+	\includegraphics[height=8em]{D1077.png} % only shown if eyecatcher=yes
+	% If an eye catcher image is present, the title floats at the left margin of such image
+    % To adjust position you can use the following strategy:
+    %\raisebox{4em}{ % the vertical offset
+    %  \begin{minipage}[t]{5.5em} % the horizontal offset
+	%	\includegraphics[height=5em]{image} % the image height
+    %  \end{minipage}
+	%}
+}
+
+\def\posterlogos{
+	% Look inside 'logos' dir for alternative logo formats, 
+	% or browse the PRHLT logos SVN repository:
+	% https://svn.prhlt.upv.es/documentation/logos/pdf/
+  % \mbox{
+  %   \begin{minipage}[c]{8.6em}
+  %     \includegraphics[height=3em]{logoUPV-val-horizontal}
+  %   \end{minipage}
+  % }
+  %
+  \mbox{
+    \begin{minipage}[c]{10.2em}
+      \includegraphics[height=3em]{Khoury_logo2}
+    \end{minipage}
+  }%
+  \hspace{3em}
+  \mbox{
+    \begin{minipage}[c]{4.2em}
+      \includegraphics[height=3em]{OpenITI_logo}
+    \end{minipage}
+  }%
+  \hspace{1em}
+  %
+  \mbox{
+    \begin{minipage}[c]{4.2em}
+      \includegraphics[height=3em]{Mellon-Logo}
+    \end{minipage}
+  }%
+  % \mbox{
+  %   \begin{minipage}[c]{4.2em}
+  %     \includegraphics[height=3em]{READ_text_bottom}
+  %   \end{minipage}
+  % }
+}

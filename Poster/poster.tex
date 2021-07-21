@@ -1,0 +1,79 @@
+\documentclass[portrait,final]{baposter} % final version
+%\documentclass[a4shrink,portrait]{baposter} % draft (some conferences request a shrink version for review)
+
+\tracingstats=2
+
+%\usepackage{pgfbaselayers} % deprecated
+\pgfdeclarelayer{background}
+\pgfdeclarelayer{foreground}
+\pgfsetlayers{background,main,foreground}
+\newcommand{\captionfont}{\footnotesize}
+
+%% Load custom packages
+\include{poster-packages}
+\include{poster-colors}
+\include{poster-options}
+
+\begin{document}
+
+\background{ % used only if background=user
+  \begin{tikzpicture}[remember picture,overlay]
+    \draw (current page.north west)+(-2em,2em) node[anchor=north west] {\includegraphics[height=1.1\textheight]{silhouettes-background}};
+  \end{tikzpicture}%
+}
+\newlength{\leftimgwidth}
+
+\begin{poster}%
+  {
+    grid=no,                            % show grid (to help with alignment)
+    gridColumns=3,                      % number of columns for use in grid (e.g., you can set 3 columns on portrait mode and 4 for landscape)
+    colspacing=1.5em,                   % column spacing
+    eyecatcher=no,                      % enable eye catcher (or not)
+    %
+    % Color styles
+    %bgColorOne=white,                   % background top color
+    bgColorOne=pantone122cmyk,                   % background top color
+    %bgColorTwo=pantone122cmyk,          % background bottom color
+    bgColorTwo=white,          % background bottom color
+    %borderColor=pantone647cmyk,         % outer border color of poster units (boxes)
+    borderColor=black,              % outer border color of poster units (boxes)
+    %headerColorOne=pantone647cmyk,      % box header color
+    headerColorOne=black,               % background color for the header in the content boxes (left side)
+    %headerColorTwo=white,               % used if shades are enabled
+    headerColorTwo=lightblue,           % background color for the header in the content boxes (right side)
+    headerFontColor=white,              % box title color
+    boxColorOne=white,                  % box background
+    boxColorTwo=white,                  % used if shades are enabled
+    %
+    % Format of text header
+    textborder=roundedleft,             % type of box border
+    headerheight=0.09\textheight,      % set poster size relative to poster title height (as the title can be too long)
+    headershape=roundedright,           % shape of the box-header region
+    headerborder=open,                  % no extra border above box header
+    headershade=shade-lr,               % type of box-header shading
+    %headerfont=\Large\sf,               % header font
+    %textfont=\sf,                       % text font
+    boxshade=plain,                     % box shading
+    background=shade-tb,                % type of poster background
+    linewidth=1pt                       % border for all boxes
+  }
+  {
+    \postereyecatcher
+  }
+  {
+    \postertitle
+  }
+  {
+    \posterauthor
+  }%
+  %{
+  %  \posterlogos
+  %}%
+
+  % set some shading options, once the poster is already configured
+  %\tikzstyle{light shaded}=[top color=baposterBGtwo!30!white,bottom color=baposterBGone!30!white,shading=axis,shading angle=30]
+
+  \input{poster-sections}
+
+\end{poster}%
+\end{document}
