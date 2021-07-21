@@ -1,28 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-    <Creator>regJS2PAGE.py</Creator>
-    <Created>2021-01-17T09:39:44.359282</Created>
-    <LastChange>2021-01-17T09:39:44.359282</LastChange>
-  </Metadata>
-  <Page imageFilename="Samples-fig-sel/busch_max_1865_0077.png" imageWidth="1600" imageHeight="2536">
-    <TextRegion id="block_0" custom="structure {type:body;}">
-      <Coords points="339,1021 339,1063 337,1080 337,1122 946,1122 946,1080 840,1080 840,1063 840,1021 339,1021"/>
-    </TextRegion>
-    <TextRegion id="block_1" custom="structure {type:body;}">
-      <Coords points="367,2213 367,2256 371,2272 371,2318 808,2318 808,2272 875,2272 875,2256 875,2213 367,2213"/>
-    </TextRegion>
-    <TextRegion id="block_2" custom="structure {type:pageNum;}">
-      <Coords points="1272,165 1272,199 1314,199 1314,165 1272,165"/>
-    </TextRegion>
-    <TextRegion id="block_3" custom="structure {type:sig;}">
-      <Coords points="1051,2321 1051,2350 1098,2350 1098,2321 1051,2321"/>
-    </TextRegion>
-    <GraphicRegion id="block_4">
-      <Coords points="61,1313 61,2148 1325,2148 1325,1313"/>
-    </GraphicRegion>
-    <GraphicRegion id="block_5">
-      <Coords points="65,215 65,948 1373,948 1373,215"/>
-    </GraphicRegion>
-  </Page>
+<Metadata>
+<Creator>regJS2PAGE.py</Creator>
+<Created>2021-01-17T09:39:44.359282</Created>
+<LastChange>2021-01-17T09:39:44.359282</LastChange>
+</Metadata>
+<Page imageFilename="Samples-fig-sel/busch_max_1865_0077.png" imageWidth="1600" imageHeight="2536">
+<TextRegion id="block_0" custom="structure {type:body;}">
+<Coords points="339,1021 339,1063 337,1080 337,1122 946,1122 946,1080 840,1080 840,1063 840,1021 339,1021"/>
+<TextLine id="line_0">
+<Coords points="339,1021 419,1021 442,1021 486,1021 507,1021 614,1021 639,1021 717,1021 741,1021 840,1021 840,1061 741,1061 717,1063 639,1063 614,1062 507,1062 486,1054 442,1054 419,1062 339,1062 339,1021"/>
+<Baseline points="339,1062 419,1062 442,1054 486,1054 507,1062 614,1062 639,1063 717,1063 741,1061 840,1061"/>
+<TextEquiv><Unicode>Doch die Käfer, kritze kratze!</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_1">
+<Coords points="337,1082 480,1082 504,1081 606,1081 631,1085 691,1085 715,1083 764,1083 788,1080 946,1080 946,1120 788,1120 764,1113 715,1113 691,1114 631,1114 606,1122 504,1122 480,1115 337,1115 337,1082"/>
+<Baseline points="337,1115 480,1115 504,1122 606,1122 631,1114 691,1114 715,1113 764,1113 788,1120 946,1120"/>
+<TextEquiv><Unicode>Kommen ſchnell aus der Matratze.</Unicode></TextEquiv>
+</TextLine>
+
+</TextRegion>
+<TextRegion id="block_1" custom="structure {type:body;}">
+<Coords points="367,2213 367,2256 371,2272 371,2318 808,2318 808,2272 875,2272 875,2256 875,2213 367,2213"/>
+<TextLine id="line_2">
+<Coords points="367,2215 470,2215 494,2214 560,2214 583,2213 675,2213 698,2213 749,2213 771,2218 875,2218 875,2250 771,2250 749,2246 698,2246 675,2254 583,2254 560,2254 494,2254 470,2256 367,2256 367,2215"/>
+<Baseline points="367,2256 470,2256 494,2254 560,2254 583,2254 675,2254 698,2246 749,2246 771,2250 875,2250"/>
+<TextEquiv><Unicode>Schon faßt einer, der voran,</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_3">
+<Coords points="371,2275 467,2275 489,2274 632,2274 656,2272 738,2272 760,2280 808,2280 808,2305 760,2305 738,2315 656,2315 632,2318 489,2318 467,2311 371,2311 371,2275"/>
+<Baseline points="371,2311 467,2311 489,2318 632,2318 656,2315 738,2315 760,2305 808,2305"/>
+<TextEquiv><Unicode>Onkel Fritzen&#39;s Naſe an.</Unicode></TextEquiv>
+</TextLine>
+
+</TextRegion>
+<TextRegion id="block_2" custom="structure {type:pageNum;}">
+<Coords points="1272,165 1272,199 1314,199 1314,165 1272,165"/>
+<TextLine id="line_4">
+<Coords points="1272,165 1314,165 1314,199 1272,199 1272,165"/>
+<Baseline points="1272,199 1314,199"/>
+<TextEquiv><Unicode>34</Unicode></TextEquiv>
+</TextLine>
+
+</TextRegion>
+<TextRegion id="block_3" custom="structure {type:sig;}">
+<Coords points="1051,2321 1051,2350 1098,2350 1098,2321 1051,2321"/>
+<TextLine id="line_5">
+<Coords points="1051,2323 1069,2323 1083,2321 1098,2321 1098,2338 1083,2338 1069,2350 1051,2350 1051,2323"/>
+<Baseline points="1051,2350 1069,2350 1083,2338 1098,2338"/>
+<TextEquiv><Unicode>5 *</Unicode></TextEquiv>
+</TextLine>
+
+</TextRegion>
+<TextRegion id="block_4" custom="structure {type:graphic;}">
+<Coords points="61,1313 61,2148 1325,2148 1325,1313"/>
+</TextRegion>
+<TextRegion id="block_5" custom="structure {type:graphic;}">
+<Coords points="65,215 65,948 1373,948 1373,215"/>
+</TextRegion>
+</Page>
 </PcGts>
