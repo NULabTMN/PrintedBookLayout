@@ -11,10 +11,10 @@ the 1,075 pages listed in the file
 self-training phase of the paper (Sec.5.5).
 
 
-Usage example of U-net models:
-==============================
+Usage example of U-net models
+=============================
 
-Intall P2PaLa (one U-net implementation for document layout analysis)
+Install P2PaLa (one U-net implementation for document layout analysis)
 from [github.com/lquirosd/P2PaLA.git](https://github.com/lquirosd/P2PaLA.git).
 
 For decoding and evaluating on the 136 pages of DTA test set:
