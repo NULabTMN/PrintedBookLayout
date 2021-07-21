@@ -1,3 +1,0 @@
-
-# Make transparent the image
-convert The-Andrew-W.-Mellon-Foundation-600x343.jpeg -fuzz 2% -trim +repage -transparent white Mellon-Logo.png
