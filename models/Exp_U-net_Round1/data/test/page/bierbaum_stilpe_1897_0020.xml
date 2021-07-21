@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>regJS2PAGE.py</Creator>
+<Created>2021-01-17T09:39:47.136228</Created>
+<LastChange>2021-01-17T09:39:47.136228</LastChange>
+</Metadata>
+<Page imageFilename="Samples-fig-sel/bierbaum_stilpe_1897_0020.png" imageWidth="1600" imageHeight="2567">
+<TextRegion id="block_0" custom="structure {type:body;}">
+<Coords points="154,285 154,350 155,372 155,440 157,458 157,525 157,543 157,611 158,629 158,699 159,716 159,784 160,802 160,864 383,864 383,802 1429,802 1429,784 1429,716 1428,699 1428,629 1428,611 1428,543 1426,525 1426,458 1426,440 1426,372 1425,350 1425,285 154,285"/>
+<TextLine id="line_0">
+<Coords points="154,287 332,287 381,286 428,286 476,286 558,286 604,285 922,285 964,291 1088,291 1132,288 1296,288 1312,327 1324,327 1371,288 1425,288 1425,337 1371,337 1324,348 1312,348 1296,342 1132,342 1088,340 964,340 922,350 604,350 558,335 476,335 428,336 381,336 332,350 154,350 154,287"/>
+<Baseline points="154,350 332,350 381,336 428,336 476,335 558,335 604,350 922,350 964,340 1088,340 1132,342 1296,342 1312,348 1324,348 1371,337 1425,337"/>
+<TextEquiv><Unicode>Freund in das verſandfähige Alter eintritt, da</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_1">
+<Coords points="155,386 259,386 302,372 378,372 426,382 511,382 543,372 685,372 725,384 814,384 858,376 946,376 990,376 1037,376 1081,377 1239,377 1271,376 1426,376 1426,440 1271,440 1239,438 1081,438 1037,427 990,427 946,426 858,426 814,437 725,437 685,435 543,435 511,422 426,422 378,434 302,434 259,423 155,423 155,386"/>
+<Baseline points="155,423 259,423 302,434 378,434 426,422 511,422 543,435 685,435 725,437 814,437 858,426 946,426 990,427 1037,427 1081,438 1239,438 1271,440 1426,440"/>
+<TextEquiv><Unicode>man ihn von Hauſe weg und in fremde Hände</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_2">
+<Coords points="157,459 253,459 285,471 471,471 504,458 761,458 799,461 853,461 885,475 989,475 1022,462 1099,462 1132,469 1216,469 1247,461 1426,461 1426,524 1247,524 1216,512 1132,512 1099,525 1022,525 989,512 885,512 853,510 799,510 761,521 504,521 471,520 285,520 253,521 157,521 157,459"/>
+<Baseline points="157,521 253,521 285,520 471,520 504,521 761,521 799,510 853,510 885,512 989,512 1022,525 1099,525 1132,512 1216,512 1247,524 1426,524"/>
+<TextEquiv><Unicode>gab, genauer geſprochen, da man ihn aus Leißnig</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_3">
+<Coords points="157,544 259,544 306,543 509,543 556,543 646,543 693,554 808,554 855,546 901,546 951,547 1016,547 1047,548 1292,548 1345,548 1428,548 1428,597 1345,597 1292,611 1047,611 1016,598 951,598 901,598 855,598 808,608 693,608 646,594 556,594 509,594 306,594 259,607 157,607 157,544"/>
+<Baseline points="157,607 259,607 306,594 509,594 556,594 646,594 693,608 808,608 855,598 901,598 951,598 1016,598 1047,611 1292,611 1345,597 1428,597"/>
+<TextEquiv><Unicode>nach Dresden und zwar in die Königliche Er¬</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_4">
+<Coords points="158,629 522,629 538,629 611,629 626,631 808,631 822,632 868,632 880,633 1428,633 1428,699 880,699 868,683 822,683 808,683 626,683 611,693 538,693 522,693 158,693 158,629"/>
+<Baseline points="158,693 522,693 538,693 611,693 626,683 808,683 822,683 868,683 880,699 1428,699"/>
+<TextEquiv><Unicode>ziehungsanſtalt für Knaben in Friedrichſtadt-Dresden</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_5">
+<Coords points="159,716 255,716 298,716 363,716 394,722 519,722 557,717 651,717 681,718 852,718 885,721 1330,721 1361,720 1429,720 1429,770 1361,770 1330,784 885,784 852,770 681,770 651,768 557,768 519,766 394,766 363,765 298,765 255,779 159,779 159,716"/>
+<Baseline points="159,779 255,779 298,765 363,765 394,766 519,766 557,768 651,768 681,770 852,770 885,784 1330,784 1361,770 1429,770"/>
+<TextEquiv><Unicode>gab, die unter dem Namen Freimaurerinſtitut be¬</Unicode></TextEquiv>
+</TextLine>
+
+<TextLine id="line_6">
+<Coords points="160,802 288,802 320,802 383,802 383,864 320,864 288,852 160,852 160,802"/>
+<Baseline points="160,852 288,852 320,864 383,864"/>
+<TextEquiv><Unicode>kannt iſt.</Unicode></TextEquiv>
+</TextLine>
+
+</TextRegion>
+<TextRegion id="block_1" custom="structure {type:pageNum;}">
+<Coords points="153,154 153,201 183,201 183,154 153,154"/>
+<TextLine id="line_7">
+<Coords points="153,154 183,154 183,201 153,201 153,154"/>
+<Baseline points="153,201 183,201"/>
+<TextEquiv><Unicode>6</Unicode></TextEquiv>
+</TextLine>
+
+</TextRegion>
+<TextRegion id="block_2" custom="structure {type:header;}">
+<Coords points="1281,150 1281,200 1425,200 1425,150 1281,150"/>
+<TextLine id="line_8">
+<Coords points="1281,150 1425,150 1425,200 1281,200 1281,150"/>
+<Baseline points="1281,200 1425,200"/>
+<TextEquiv><Unicode>Stilpe.</Unicode></TextEquiv>
+</TextLine>
+
+</TextRegion>
+<TextRegion id="block_3" custom="structure {type:graphic;}">
+<Coords points="708,1098 708,1246 881,1246 881,1098"/>
+</TextRegion>
+</Page>
+</PcGts>

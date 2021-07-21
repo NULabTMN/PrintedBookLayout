@@ -1,0 +1,32 @@
+--exp_name DTA_zones
+--work_dir ./work_zones_only
+--log_level DEBUG
+--num_workers 12
+--gpu 0
+--seed 20210126
+--no_display
+--img_size 1024 768
+--line_color 128
+--line_width 10
+--regions body note header pageNum colNum sig figure catch graphic
+--nontext_regions graphic
+--approx_alg optimal
+--num_segments 4
+--batch_size 1
+--input_channels 3
+--out_mode R
+--net_out_type C
+--cnn_ngf 64
+--no-use_gan
+--g_loss L1
+--adam_lr 0.001
+--adam_beta1 0.5
+--adam_beta2 0.999
+--no-do_train
+--no-do_val
+--do_test
+--te_data data/test
+--no-do_prod
+--epochs 200
+--max_vertex 30
+--e_stdv 6
