@@ -24,3 +24,4 @@ P2PaLA.py --config ./config.txt \
           --prev_model ../U-net_trainEvalOnDTA_round1.pth \
 	  2>>p2pala.log 1>&2
 ```
+For an explanation about the different parameters in `config.txt` refers to the P2Pala's documentation at: [github.com/lquirosd/P2PaLA.git](https://github.com/lquirosd/P2PaLA.git).
